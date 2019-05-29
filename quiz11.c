@@ -133,7 +133,7 @@ void deletePI()
 	}
 }
 
-//4번 제거기능 구현하기위해 swap함수 정의
+//4번 제거기능 구현하기위해 swap함수 정의.
 void swap(struct phoneBook* _PI)
 {
 	struct phoneBook tmp = *(_PI);
